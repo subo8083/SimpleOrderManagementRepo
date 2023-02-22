@@ -11,3 +11,11 @@ for example, a Customer can place many orders so ONETOMANY relationship establis
 
 ## after associating orders with customers if order associated is more than 9 then automatically the TYPE of customer will change to GOLD from REGULAR.
     Similarly orders above 20 will change the type as PLATINUM and particular discount will be given to the customer for each order.
+
+# Tech-Stack
+  * Java
+  * Spring Boot
+  * Hibernate
+  * REST API
+  * Lombok
+  * Swagger UI
